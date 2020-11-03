@@ -1,6 +1,6 @@
 # Sorteando um item na lista
 from random import choice
-# "randon" pega um um nùmero ou strin aleatório.
+# A função "choice" pega um um nùmero ou string aleatório do modulo "random"
 a1 = input("Quem é o primeiro aluno: ")
 a2 = input("Quem é o segundo aluno: ")
 a3 = input("Quem é o terceiro aluno: ")
