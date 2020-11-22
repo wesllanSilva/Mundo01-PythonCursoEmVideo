@@ -4,7 +4,7 @@ lista_nome = nome.split()
 # split transforma o nome em uma lista.
 nome1 = lista_nome[0].title()
 #title deixa a primeira letra em maiúscula.
-ultimo_nome = lista_nome[len(nome.split())-1]
+ultimo_nome = lista_nome[len(nome.split())-1].title()
 #len conta quantos objetos tem na lista.
 print("É um prazer te conhecer! ")
 print("Seu primeiro nome é {}.".format(nome1))
