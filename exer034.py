@@ -1,7 +1,5 @@
 #Aumento de salário multiplos
 salario = float(input("Qual é o seu salario? R$"))
-novoSalario=0
-aumento = 0
 if salario >= 1250:
     aumento =10
     novoSalario = salario + salario * 10/100
