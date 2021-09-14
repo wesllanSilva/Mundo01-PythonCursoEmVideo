@@ -1,4 +1,4 @@
-#TABUADA
+#TABUADA DE MULTIPLICAÇÃO
 n = int(input("Digite um número para saber sua tabuada de multiplicação: "))
 
 print("="*20)
